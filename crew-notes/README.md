@@ -3,7 +3,7 @@
 This is our (public) collaborative notes repository between the squad members in Markdown. If you need a private place to take down notes with
 a squad members, just grab a copy of this repo as a private fork on your own and invite along.
 
-## Getting started
+## Getting started with StackEdit+
 
 1. Request write access by [completing the onboarding workflow for squad members](https://onboard.lorebooks.eu.org/squad)[^1]. Expect up to 7 days
 to process your request and invite you to `@lorebooks/squad` team (Not receiving the invitation email? [Try opening this link](https://github.com/orgs/Community-Lores/invitations)).
@@ -21,6 +21,33 @@ Change `autoSyncEvery` in Settings into something like `300000` (yes, that's 5 m
 
 ```yaml
 autoSyncEvery: 300000 # 5 minutes
+```
+
+### How do I format commit messages like Conventional Commits?
+
+```yaml
+# Replace `Your Name <user@recaptime.eu.org>` with your name and your
+# squad email (user@recaptime.eu.org or user@crew.recaptime.eu.org) or
+# your personal email if you comfortable.
+git:
+  createFileMessage: |
+    docs(crew-notes): add new file {{path}}
+
+    This commit is generated with StackEdit+ (https://stackedit.net)
+
+    Signed-off-by: Your Name <user@recaptime.eu.org>
+  updateFileMessage: |
+    docs(global): update file {{path}}
+
+    This commit is generated with StackEdit+ (https://stackedit.net)
+
+    Signed-off-by: Your Name <user@recaptime.eu.org>
+  deleteFileMessage: |
+    docs(global): add new file {{path}}
+
+    This commit is generated with StackEdit+ (https://stackedit.net)
+
+    Signed-off-by: Your Name <user@recaptime.eu.org>
 ```
 
 [^1]: Anybody else can ask for write access to non-protected branches via [this repo's issue tracker](https://github.com/Community-Lores/squad-collaborative-notes/issues).
