@@ -7,6 +7,11 @@ Documentation for squad members and contributors is available at [`crew-notes/RE
 
 If you do edit here, PLEASE DO NOT LEAK ANYTHING CONFIDENTAL, INCLUDING ANY INTERNAL OR RESTRICTED-ACCESS-ONLY LINKS.
 
+## License
+
 ## Legal disclaimer
 
 The contents in this public repository contains information related to upcoming products, features, and functionality. It is important to note that the information in this public repository is for informational purposes only. Please do not rely on this information for purchasing or planning purposes. As with all projects, the items mentioned in this blog and linked pages are subject to change or delay. The development, release, and timing of any products, features, or functionality remain at the sole discretion of Recap Time Squad.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjM2NDExMjM1XX0=
+-->
