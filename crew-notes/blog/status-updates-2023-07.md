@@ -12,9 +12,9 @@ targetPlatform:
 
 > **WARNING: PUBLIC DRAFT!** Please see [the legal disclaimer at the repo's README](/README.md#legal-disclaimer) for details about upcoming updates.
 
-Inspired by [Project Segfault](https://blog.projectsegfau.lt/tag/state-of-project-segfault/), [some](https://drewdevault.com/) [sourcehut](https://bitfehler.srht.site/) [maintainers](https://emersion.fr/), and [even our current BDFL and lead maintainer themselves](https://ajhalili2006.substack.com/archive?sort=search&search=status%20update), we'll start writing these monthly (or quarterly if school go backs in September for ~ajhalili2006) status updates.
+Inspired by [Project Segfault](https://blog.projectsegfau.lt/tag/state-of-project-segfault/), [some](https://drewdevault.com/) [sourcehut](https://bitfehler.srht.site/) [maintainers](https://emersion.fr/), and [even our current BDFL and lead maintainer themselves](https://ajhalili2006.substack.com/archive?sort=search&search=status%20update), we'll start writing these monthly (or quarterly if school go back in September for ~ajhalili2006) status updates.
 
-To get things started, 
+To get things started, we'll talk about our organizational wiki, state of project maintenance and then some.
 
 ## The Squad Wiki, now in Markdown
 
@@ -23,6 +23,6 @@ To get things started,
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbMTA1MzY5MjgxNiwtNzkyNzg0NDEzLC0yMD
+LCJoaXN0b3J5IjpbLTc4MjQ3NjUyNywtNzkyNzg0NDEzLC0yMD
 gwNjAwMzUxXX0=
 -->
