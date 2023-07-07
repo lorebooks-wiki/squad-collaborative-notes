@@ -22,13 +22,13 @@ To get things started, we'll talk about our organizational wiki, state of projec
 
 You might be heard about [possible closure of Miraheze](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement) after [an emergency board meeting](https://meta.miraheze.org/wiki/Board/Policies/20230607-Minutes), mostly due to volunteer burnout ([see diff](https://meta.miraheze.org/w/index.php?diff=339060&diffmode=visual)). There's news that the [community volunteers has a plan to save the project](https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down), although we always cross our fingers whenever the future holds.
 
-In the meanwhile, we currently working on Markdownifying the wiki 
+In the meanwhile, we're currently working on Markdownifying the wiki 
 
 ---
 > Written with [StackEdit+](https://stackedit.net/).
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
 BnZm1cbiAgZW1vamk6XG4gICAgc2hvcnRjdXRzOiB0cnVlXG4i
-LCJoaXN0b3J5IjpbLTc3ODU4NjIzNSwtNzgyNDc2NTI3LC03OT
-I3ODQ0MTMsLTIwODA2MDAzNTFdfQ==
+LCJoaXN0b3J5IjpbMTgwMzA0MDM2MywtNzc4NTg2MjM1LC03OD
+I0NzY1MjcsLTc5Mjc4NDQxMywtMjA4MDYwMDM1MV19
 -->
