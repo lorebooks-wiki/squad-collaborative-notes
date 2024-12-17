@@ -7,7 +7,6 @@ tags:
 This is what we call as assorted notes that we collaboratively edit as a extension of and incubator for [our Squad Wiki and Handbook](https://wiki.recaptime.dev). You can also access them via [Agora](https://anagora.org) at `@recaptimedev-crew-notes` namespace soon and we use [[Obsidian]] alongside [[VS Code]] to edit them out.
 
 This wiki project by Recap Time Squad is hosted on [[Community Lorebooks]], our free (sub)domain service and project for your documentation and digital gardens.
-
 ## Contributions are welcome
 
 Although direct push access into the main branch is limited to `@recaptime-dev/squad` members, we accept community contributions like our wiki such as:

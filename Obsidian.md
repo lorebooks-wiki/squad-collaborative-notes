@@ -1,0 +1,2 @@
+- [[go]] https://obsidian.md
+- Markdown editor for digital garden
